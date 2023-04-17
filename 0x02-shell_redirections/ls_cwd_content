@@ -1,1 +1,17 @@
 ls -la
+total 52
+drwxr-xr-x 2 root root 279 Apr 17 10:47 .
+drwxr-xr-x 6 root root 167 Apr 17 04:37 ..
+-rwxr-xr-x 1 root root  32 Apr 17 10:47 0-hello_world
+-rwxr-xr-x 1 root root  28 Apr 17 04:37 1-confused_smiley
+-rwxr-xr-x 1 root root  30 Apr 17 04:37 2-hellofile
+-rwxr-xr-x 1 root root  43 Apr 17 04:37 3-twofiles
+-rwxr-xr-x 1 root root  31 Apr 17 04:37 4-lastlines
+-rwxr-xr-x 1 root root  31 Apr 17 04:37 5-firstlines
+-rwxr-xr-x 1 root root  36 Apr 17 04:37 6-third_line
+-rwxr-xr-x 1 root root  78 Apr 17 04:40 7-file
+-rwxr--r-- 1 root root  43 Apr 17 05:36 8-cwd_state
+-rw-r--r-- 1 root root  12 Apr 17 04:40 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root 801 Apr 17 04:37 iacta
+-rw-r--r-- 1 root root   7 Apr 17 05:38 ls_cwd_content
+-rw-r--r-- 1 root root  81 Apr 17 10:38 README.md
